@@ -1,2 +1,1 @@
-nginx
-allinone youshandefeiyang/allinone
+youshandefeiyang/allinone
